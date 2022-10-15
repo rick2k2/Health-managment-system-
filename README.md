@@ -6,7 +6,7 @@ This project is maintain people health by using the monitor their daily basics l
 # DESCRIPTION:  *
 # ****************************************************************************************************
 # 'Health managment system' project workflow describe here
-# I used here 7 function for data save in file and also data retrive from file
+# I used here 13 function for data save in file and also data retrive from file
 
 # All function name here:
 #1. def main_input()
